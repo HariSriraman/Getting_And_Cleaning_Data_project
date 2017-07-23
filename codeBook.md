@@ -19,20 +19,35 @@ The script run_analysis.R was developed by performing the following steps:
 Variables:
 
 X_test - table contents of test/X_test.txt
+
 X_train - table contents of train/X_train.txt
+
 Y_test - table contents of test/Y_test.txt
+
 Y_train - table contents of train/Y_train.txt
+
 consolFile - Measurement data. Combined data set of the two above variables
+
 subject_test - table contents of test/subject_test.txt
+
 subject_train- table contents of test/subject_train.txt
+
 XC_train – Merge file for X_train, Y_train and Subject Train
+
 XC_test   –  Merge file for X_train, Y_train and Subject Train
+
 Cname – column names for the consolidated files
+
 Features – Have contents of features.txt
+
 selectRows_w_ActyNm --  Merge file containing records from selectRows dataframe with Activity description
+
 aggResult – aggregate results of dataframe
+
 selectCols – Contains the Grep of Mean, activity, Subject and standard
+
 selectRows – – mean, sd, activity, subjected  columns from master consol file.
+
 
 
 
