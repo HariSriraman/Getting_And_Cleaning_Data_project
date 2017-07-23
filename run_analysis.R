@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ######### Step 1 #################### Start #
 ######### Downloading and Unzip #############
 # Set the working directory to Course 3 project directory 
